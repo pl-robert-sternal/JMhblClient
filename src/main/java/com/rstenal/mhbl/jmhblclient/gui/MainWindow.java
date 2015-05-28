@@ -56,7 +56,7 @@ public class MainWindow extends javax.swing.JFrame {
 
         txtLogin.setText("demo@mhbl.pl");
 
-        txtPassword.setText("demo");
+        txtPassword.setText("demo123");
 
         lblPassword.setText("Password");
 
